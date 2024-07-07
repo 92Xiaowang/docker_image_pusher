@@ -1,2 +1,4 @@
 docker
 homeassistant/home-assistant
+homeassistant/aarch64-addon-ssh
+homeassistant/aarch64-addon-samba
