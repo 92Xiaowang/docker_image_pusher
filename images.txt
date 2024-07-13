@@ -2,3 +2,4 @@ homeassistant/home-assistant
 homeassistant/aarch64-addon-ssh
 homeassistant/aarch64-addon-samba
 homeassistant/aarch64-addon-configurator
+cloudflare/cloudflared
