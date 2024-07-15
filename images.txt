@@ -3,3 +3,4 @@ homeassistant/aarch64-addon-ssh
 homeassistant/aarch64-addon-samba
 homeassistant/aarch64-addon-configurator
 homeassistant/qemux86-64-homeassistant
+portainer/portainer
